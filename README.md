@@ -1,3 +1,3 @@
 sup
 
-<a rel="me" href="https://triangletoot.party/@eric">&nbsp;</a>
+<a href="https://triangletoot.party/@eric" rel="me">&nbsp;</a>
