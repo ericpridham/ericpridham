@@ -1,5 +1,5 @@
 sup
 
-<pre style="display: hidden">
-<a href="https://triangletoot.party/@eric" rel="me">&nbsp;</a>
-</pre>
+<code style="display: hidden">
+<a href="https://triangletoot.party/@eric" rel="me"></a>
+</code>
